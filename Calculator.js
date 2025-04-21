@@ -19,3 +19,8 @@ function deleteLast() {
     display.value = display.value.slice(0, -1);
 }
 
+function clearentry() {
+    const display = document.getElementByID('display');
+    display.value ='';
+}
+
