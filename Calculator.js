@@ -20,7 +20,6 @@ function deleteLast() {
 }
 
 function clearentry() {
-    const display = document.getElementByID('display');
-    display.value ='';
+    const display = document.getElementById('display'); // ✅ corrected from getElementByID
+    display.value = '';
 }
-
