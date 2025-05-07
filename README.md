@@ -11,7 +11,7 @@ CSS – styling and layout
 
 JavaScript – logic and interactivity
 
-Python (optional) – terminal-based calculator
+Python  – terminal-based calculator
 
 ⚙️ Features
 ✅ Basic operations (+, -, *, /)
